@@ -1,0 +1,1 @@
+pip install pyserial numpy scikit-learn joblib

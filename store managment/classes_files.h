@@ -1,0 +1,11 @@
+#pragma once
+#include"user.h"
+#include"store.h"
+#include"product_catalog.h"
+#include"payment.h"
+#include"online_shopping.h"
+#include"manager.h"
+#include"inventory.h"
+#include"customer.h"
+#include"admin.h"
+#include"Abdullah_grocery_store.h"
